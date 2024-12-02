@@ -1,0 +1,24 @@
+contentTypeName: post
+showAuthor: true
+author:
+  name: Gian Cavalcante
+  email: gianlcl@iglabs.com.br
+header:
+  logo: logo.svg
+footer:
+  since: 2024
+  poweredby: true
+social_media:
+  items:
+    - enabled: true
+      title: Github
+      icon: brand-github
+      link: https://github.com/gianlcl
+    - enabled: true
+      title: Linkedin
+      icon: brand-linkedin
+      link: https://www.linkedin.com/in/gian-cavalcante
+    - enabled: true
+      title: Bluesky
+      icon: brand-bluesky
+      link: https://bsky.app/profile/gianlcl.online

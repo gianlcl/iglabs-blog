@@ -1,0 +1,17 @@
+services:
+  hugo:
+    image: hugomods/hugo:exts-non-root
+    command: server -D -p 8080
+    volumes:
+      - type: bind
+        source: ./
+        target: /src
+      - type: bind
+        source: ./build/cache
+        target: /tmp/hugo_cache
+    ports:
+      - name: web
+        target: 8080
+        published: 8080
+        app_protocol: http
+        protocol: TCP

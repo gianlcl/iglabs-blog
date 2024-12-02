@@ -1,0 +1,15 @@
+baseURL: "https://blog.iglabs.com.br"
+title: "igLabs Blog"
+copyright: "Gian Cavalcante"
+languageCode: pt-BR
+defaultContentLanguage: pt-BR
+enableInlineShortcodes: true
+theme: tailwind
+pagination:
+  pagerSize: 10
+markup:
+  _merge: deep
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
