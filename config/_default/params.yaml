@@ -8,6 +8,20 @@ header:
 footer:
   since: 2024
   poweredby: true
+giscus:
+  enabled: true
+  repo: gianlcl/iglabs-blog
+  repoId: R_kgDONX2mnA
+  category: Announcements
+  categoryId: DIC_kwDONX2mnM4Ck07O
+  mapping: pathname
+  strict: "0"
+  reactionsEnabled: "1"
+  emitMetadata: "0"
+  inputPosition: top
+  theme: preferred_color_scheme
+  lang: pt
+  loading: lazy
 social_media:
   items:
     - enabled: true
