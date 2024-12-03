@@ -5,6 +5,9 @@ date        = "2024-12-02"
 aliases     = ["bem-vindo", "welcome"]
 author      = "Gian Cavalcante"
 toc         = false
+image       = "imgs/hello-world.webp"
+tags        = ["greetings", "just talking"]
+categories  = ["just-talking"]
 +++
 
 Bom, primeiramente eu acho que devo me apresentar, embora eu fale um pouco sobre mim no `Sobre`, vou tentar falar um pouco diferente aqui. Para quem não me conhece, meu nome é Gian e na data dessa publicação falta exatamente um mês para meu aniversário de 30 anos. Eu trabalho com devops desde 2019 e atualmente estou desempenhando o papel de Platform Engineer na Magalu Cloud.
