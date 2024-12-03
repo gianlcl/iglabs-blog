@@ -7,7 +7,7 @@ pt-BR:
     main:
       - identifier: blog
         name: Blog
-        pageRef: /blog
+        pageRef: /posts
         weight: 10
       - identifier: about
         name: Sobre
@@ -22,7 +22,7 @@ en:
     main:
       - identifier: blog
         name: Blog
-        pageRef: /blog
+        pageRef: /posts
         weight: 10
       - identifier: about
         name: About
