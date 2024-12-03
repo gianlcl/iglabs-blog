@@ -1,5 +1,8 @@
-contentTypeName: post
+keywords: "tech blog, devops, linux"
+subtitle: "A personal tech blog, about devops and linux"
+contentTypeName: posts
 showAuthor: true
+jsonLD: true
 author:
   name: Gian Cavalcante
   email: gianlcl@iglabs.com.br
